@@ -42,3 +42,11 @@ form button {
     cursor: pointer;
     padding: 8px;
 }
+
+#lista-tarefas {
+    cursor: pointer;
+}
+
+.line-through span {
+    text-decoration: line-through;
+}
